@@ -1,0 +1,36 @@
+#body{
+    background-color: black;
+}
+#nametitle{
+    font-family:Impact, fancy;
+    font-size: 20px;
+    color: white;
+}
+#underline{
+    border: 4px black;
+}
+#Coaching{
+    text-align: center;
+    text-decoration:underline;
+    font-family:gill sans, sans-serif;
+}
+
+#about > p{
+    text-align: center;
+
+}
+table, th,td{
+    color: black;
+}
+table, tr{
+    border: 1px solid white;
+}
+#b_w{
+    background-color: rgb(24, 23, 23);
+    color: white;
+}
+#Title{
+    text-decoration:underline;
+    font-family:gill sans, sans-serif;
+    text-align: center;
+}   
